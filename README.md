@@ -24,7 +24,7 @@
 
 <h2 style="font-size: 1.75em;">Get Started</h2>
 <p style="font-size: 1.2em;">
-  Join our platform today and experience the future of virtual meetings. Connect, collaborate, and communicate effortlessly from anywhere. <strong>Sign up now and start your virtual meetings!</strong>
+  Join our platform today and experience the future of virtual meetings. Connect, collaborate, and communicate effortlessly from anywhere.<strong>Sign up now and start your virtual meetings!</strong>
 </p>
 
 <style>
